@@ -1,0 +1,16 @@
+C:\Users\Matteo\Desktop\homework\C#\Archivio di valori\Archivio di valori\bin\Debug\net6.0-windows\Archivio di valori.exe
+C:\Users\Matteo\Desktop\homework\C#\Archivio di valori\Archivio di valori\bin\Debug\net6.0-windows\Archivio di valori.deps.json
+C:\Users\Matteo\Desktop\homework\C#\Archivio di valori\Archivio di valori\bin\Debug\net6.0-windows\Archivio di valori.runtimeconfig.json
+C:\Users\Matteo\Desktop\homework\C#\Archivio di valori\Archivio di valori\bin\Debug\net6.0-windows\Archivio di valori.dll
+C:\Users\Matteo\Desktop\homework\C#\Archivio di valori\Archivio di valori\bin\Debug\net6.0-windows\Archivio di valori.pdb
+C:\Users\Matteo\Desktop\homework\C#\Archivio di valori\Archivio di valori\obj\Debug\net6.0-windows\Archivio_di_valori.Form1.resources
+C:\Users\Matteo\Desktop\homework\C#\Archivio di valori\Archivio di valori\obj\Debug\net6.0-windows\Archivio di valori.csproj.GenerateResource.cache
+C:\Users\Matteo\Desktop\homework\C#\Archivio di valori\Archivio di valori\obj\Debug\net6.0-windows\Archivio di valori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matteo\Desktop\homework\C#\Archivio di valori\Archivio di valori\obj\Debug\net6.0-windows\Archivio di valori.AssemblyInfoInputs.cache
+C:\Users\Matteo\Desktop\homework\C#\Archivio di valori\Archivio di valori\obj\Debug\net6.0-windows\Archivio di valori.AssemblyInfo.cs
+C:\Users\Matteo\Desktop\homework\C#\Archivio di valori\Archivio di valori\obj\Debug\net6.0-windows\Archivio di valori.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\Desktop\homework\C#\Archivio di valori\Archivio di valori\obj\Debug\net6.0-windows\Archivio di valori.dll
+C:\Users\Matteo\Desktop\homework\C#\Archivio di valori\Archivio di valori\obj\Debug\net6.0-windows\refint\Archivio di valori.dll
+C:\Users\Matteo\Desktop\homework\C#\Archivio di valori\Archivio di valori\obj\Debug\net6.0-windows\Archivio di valori.pdb
+C:\Users\Matteo\Desktop\homework\C#\Archivio di valori\Archivio di valori\obj\Debug\net6.0-windows\Archivio di valori.genruntimeconfig.cache
+C:\Users\Matteo\Desktop\homework\C#\Archivio di valori\Archivio di valori\obj\Debug\net6.0-windows\ref\Archivio di valori.dll

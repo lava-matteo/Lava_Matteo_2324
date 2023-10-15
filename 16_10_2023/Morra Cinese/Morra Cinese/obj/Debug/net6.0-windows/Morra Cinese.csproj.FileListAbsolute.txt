@@ -1,0 +1,17 @@
+C:\Users\Matteo\Desktop\homework\C#\Morra Cinese\Morra Cinese\bin\Debug\net6.0-windows\Morra Cinese.exe
+C:\Users\Matteo\Desktop\homework\C#\Morra Cinese\Morra Cinese\bin\Debug\net6.0-windows\Morra Cinese.deps.json
+C:\Users\Matteo\Desktop\homework\C#\Morra Cinese\Morra Cinese\bin\Debug\net6.0-windows\Morra Cinese.runtimeconfig.json
+C:\Users\Matteo\Desktop\homework\C#\Morra Cinese\Morra Cinese\bin\Debug\net6.0-windows\Morra Cinese.dll
+C:\Users\Matteo\Desktop\homework\C#\Morra Cinese\Morra Cinese\bin\Debug\net6.0-windows\Morra Cinese.pdb
+C:\Users\Matteo\Desktop\homework\C#\Morra Cinese\Morra Cinese\obj\Debug\net6.0-windows\Morra_Cinese.Form1.resources
+C:\Users\Matteo\Desktop\homework\C#\Morra Cinese\Morra Cinese\obj\Debug\net6.0-windows\Morra Cinese.csproj.GenerateResource.cache
+C:\Users\Matteo\Desktop\homework\C#\Morra Cinese\Morra Cinese\obj\Debug\net6.0-windows\Morra Cinese.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matteo\Desktop\homework\C#\Morra Cinese\Morra Cinese\obj\Debug\net6.0-windows\Morra Cinese.AssemblyInfoInputs.cache
+C:\Users\Matteo\Desktop\homework\C#\Morra Cinese\Morra Cinese\obj\Debug\net6.0-windows\Morra Cinese.AssemblyInfo.cs
+C:\Users\Matteo\Desktop\homework\C#\Morra Cinese\Morra Cinese\obj\Debug\net6.0-windows\Morra Cinese.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\Desktop\homework\C#\Morra Cinese\Morra Cinese\obj\Debug\net6.0-windows\Morra Cinese.dll
+C:\Users\Matteo\Desktop\homework\C#\Morra Cinese\Morra Cinese\obj\Debug\net6.0-windows\refint\Morra Cinese.dll
+C:\Users\Matteo\Desktop\homework\C#\Morra Cinese\Morra Cinese\obj\Debug\net6.0-windows\Morra Cinese.pdb
+C:\Users\Matteo\Desktop\homework\C#\Morra Cinese\Morra Cinese\obj\Debug\net6.0-windows\Morra Cinese.genruntimeconfig.cache
+C:\Users\Matteo\Desktop\homework\C#\Morra Cinese\Morra Cinese\obj\Debug\net6.0-windows\ref\Morra Cinese.dll
+C:\Users\Matteo\Desktop\homework\C#\Morra Cinese\Morra Cinese\obj\Debug\net6.0-windows\Morra_Cinese.Properties.Resources.resources
