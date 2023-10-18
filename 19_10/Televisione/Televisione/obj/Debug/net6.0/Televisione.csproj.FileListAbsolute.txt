@@ -1,0 +1,14 @@
+C:\Users\Matteo\Desktop\homework\C#\Televisione\Televisione\obj\Debug\net6.0\Televisione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matteo\Desktop\homework\C#\Televisione\Televisione\obj\Debug\net6.0\Televisione.AssemblyInfoInputs.cache
+C:\Users\Matteo\Desktop\homework\C#\Televisione\Televisione\obj\Debug\net6.0\Televisione.AssemblyInfo.cs
+C:\Users\Matteo\Desktop\homework\C#\Televisione\Televisione\obj\Debug\net6.0\Televisione.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\Desktop\homework\C#\Televisione\Televisione\bin\Debug\net6.0\Televisione.exe
+C:\Users\Matteo\Desktop\homework\C#\Televisione\Televisione\bin\Debug\net6.0\Televisione.deps.json
+C:\Users\Matteo\Desktop\homework\C#\Televisione\Televisione\bin\Debug\net6.0\Televisione.runtimeconfig.json
+C:\Users\Matteo\Desktop\homework\C#\Televisione\Televisione\bin\Debug\net6.0\Televisione.dll
+C:\Users\Matteo\Desktop\homework\C#\Televisione\Televisione\bin\Debug\net6.0\Televisione.pdb
+C:\Users\Matteo\Desktop\homework\C#\Televisione\Televisione\obj\Debug\net6.0\Televisione.dll
+C:\Users\Matteo\Desktop\homework\C#\Televisione\Televisione\obj\Debug\net6.0\refint\Televisione.dll
+C:\Users\Matteo\Desktop\homework\C#\Televisione\Televisione\obj\Debug\net6.0\Televisione.pdb
+C:\Users\Matteo\Desktop\homework\C#\Televisione\Televisione\obj\Debug\net6.0\Televisione.genruntimeconfig.cache
+C:\Users\Matteo\Desktop\homework\C#\Televisione\Televisione\obj\Debug\net6.0\ref\Televisione.dll
