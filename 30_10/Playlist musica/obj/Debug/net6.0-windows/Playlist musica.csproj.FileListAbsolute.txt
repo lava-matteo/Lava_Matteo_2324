@@ -1,0 +1,16 @@
+C:\Users\Matteo\Desktop\homework\C#\Playlist musica\Playlist musica\bin\Debug\net6.0-windows\Playlist musica.exe
+C:\Users\Matteo\Desktop\homework\C#\Playlist musica\Playlist musica\bin\Debug\net6.0-windows\Playlist musica.deps.json
+C:\Users\Matteo\Desktop\homework\C#\Playlist musica\Playlist musica\bin\Debug\net6.0-windows\Playlist musica.runtimeconfig.json
+C:\Users\Matteo\Desktop\homework\C#\Playlist musica\Playlist musica\bin\Debug\net6.0-windows\Playlist musica.dll
+C:\Users\Matteo\Desktop\homework\C#\Playlist musica\Playlist musica\bin\Debug\net6.0-windows\Playlist musica.pdb
+C:\Users\Matteo\Desktop\homework\C#\Playlist musica\Playlist musica\obj\Debug\net6.0-windows\Playlist_musica.Form1.resources
+C:\Users\Matteo\Desktop\homework\C#\Playlist musica\Playlist musica\obj\Debug\net6.0-windows\Playlist musica.csproj.GenerateResource.cache
+C:\Users\Matteo\Desktop\homework\C#\Playlist musica\Playlist musica\obj\Debug\net6.0-windows\Playlist musica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matteo\Desktop\homework\C#\Playlist musica\Playlist musica\obj\Debug\net6.0-windows\Playlist musica.AssemblyInfoInputs.cache
+C:\Users\Matteo\Desktop\homework\C#\Playlist musica\Playlist musica\obj\Debug\net6.0-windows\Playlist musica.AssemblyInfo.cs
+C:\Users\Matteo\Desktop\homework\C#\Playlist musica\Playlist musica\obj\Debug\net6.0-windows\Playlist musica.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\Desktop\homework\C#\Playlist musica\Playlist musica\obj\Debug\net6.0-windows\Playlist musica.dll
+C:\Users\Matteo\Desktop\homework\C#\Playlist musica\Playlist musica\obj\Debug\net6.0-windows\refint\Playlist musica.dll
+C:\Users\Matteo\Desktop\homework\C#\Playlist musica\Playlist musica\obj\Debug\net6.0-windows\Playlist musica.pdb
+C:\Users\Matteo\Desktop\homework\C#\Playlist musica\Playlist musica\obj\Debug\net6.0-windows\Playlist musica.genruntimeconfig.cache
+C:\Users\Matteo\Desktop\homework\C#\Playlist musica\Playlist musica\obj\Debug\net6.0-windows\ref\Playlist musica.dll
