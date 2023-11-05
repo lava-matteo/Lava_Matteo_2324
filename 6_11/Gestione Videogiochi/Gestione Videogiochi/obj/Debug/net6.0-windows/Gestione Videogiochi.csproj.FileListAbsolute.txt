@@ -1,0 +1,16 @@
+C:\Users\Matteo\Desktop\homework\C#\Gestione Videogiochi\Gestione Videogiochi\bin\Debug\net6.0-windows\Gestione Videogiochi.exe
+C:\Users\Matteo\Desktop\homework\C#\Gestione Videogiochi\Gestione Videogiochi\bin\Debug\net6.0-windows\Gestione Videogiochi.deps.json
+C:\Users\Matteo\Desktop\homework\C#\Gestione Videogiochi\Gestione Videogiochi\bin\Debug\net6.0-windows\Gestione Videogiochi.runtimeconfig.json
+C:\Users\Matteo\Desktop\homework\C#\Gestione Videogiochi\Gestione Videogiochi\bin\Debug\net6.0-windows\Gestione Videogiochi.dll
+C:\Users\Matteo\Desktop\homework\C#\Gestione Videogiochi\Gestione Videogiochi\bin\Debug\net6.0-windows\Gestione Videogiochi.pdb
+C:\Users\Matteo\Desktop\homework\C#\Gestione Videogiochi\Gestione Videogiochi\obj\Debug\net6.0-windows\Gestione_Videogiochi.Form1.resources
+C:\Users\Matteo\Desktop\homework\C#\Gestione Videogiochi\Gestione Videogiochi\obj\Debug\net6.0-windows\Gestione Videogiochi.csproj.GenerateResource.cache
+C:\Users\Matteo\Desktop\homework\C#\Gestione Videogiochi\Gestione Videogiochi\obj\Debug\net6.0-windows\Gestione Videogiochi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matteo\Desktop\homework\C#\Gestione Videogiochi\Gestione Videogiochi\obj\Debug\net6.0-windows\Gestione Videogiochi.AssemblyInfoInputs.cache
+C:\Users\Matteo\Desktop\homework\C#\Gestione Videogiochi\Gestione Videogiochi\obj\Debug\net6.0-windows\Gestione Videogiochi.AssemblyInfo.cs
+C:\Users\Matteo\Desktop\homework\C#\Gestione Videogiochi\Gestione Videogiochi\obj\Debug\net6.0-windows\Gestione Videogiochi.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\Desktop\homework\C#\Gestione Videogiochi\Gestione Videogiochi\obj\Debug\net6.0-windows\Gestione Videogiochi.dll
+C:\Users\Matteo\Desktop\homework\C#\Gestione Videogiochi\Gestione Videogiochi\obj\Debug\net6.0-windows\refint\Gestione Videogiochi.dll
+C:\Users\Matteo\Desktop\homework\C#\Gestione Videogiochi\Gestione Videogiochi\obj\Debug\net6.0-windows\Gestione Videogiochi.pdb
+C:\Users\Matteo\Desktop\homework\C#\Gestione Videogiochi\Gestione Videogiochi\obj\Debug\net6.0-windows\Gestione Videogiochi.genruntimeconfig.cache
+C:\Users\Matteo\Desktop\homework\C#\Gestione Videogiochi\Gestione Videogiochi\obj\Debug\net6.0-windows\ref\Gestione Videogiochi.dll
